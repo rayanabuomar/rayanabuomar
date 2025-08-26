@@ -10,7 +10,7 @@ I'm a Computer Science student with a passion for cybersecurity, and I love tack
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/rayanabuomar/threat-hunting-scenario-tor)**
 
 <hr/>
 
