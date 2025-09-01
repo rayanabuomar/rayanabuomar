@@ -6,7 +6,7 @@ I'm a Computer Science student with a passion for cybersecurity, and I love tack
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/rayanabuomar/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/rayanabuomar/automated-remediations)**
+- **[Automated DISA STIG Compliance Remediations (PowerShell)](https://github.com/rayanabuomar/automated-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
