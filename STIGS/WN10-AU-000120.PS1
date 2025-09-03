@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
-    
+    Enables auditing of IPSec Driver failures and ensures 
+    audit subcategory settings override category settings.
 
 .NOTES
     Author          : Rayan Abu Omar 
