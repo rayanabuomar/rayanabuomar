@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
-    
+    Sets the account lockout counter reset time to 15 minutes 
+    by updating and applying local security policy.
 
 .NOTES
     Author          : Rayan Abu Omar 
