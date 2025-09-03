@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
-    
+    Restricts NetBIOS name release to only WINS requests by setting 
+    NoNameReleaseOnDemand to 1.
 
 .NOTES
     Author          : Rayan Abu Omar 
