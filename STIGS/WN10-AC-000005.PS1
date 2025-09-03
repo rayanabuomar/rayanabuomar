@@ -1,6 +1,7 @@
  <#
 .SYNOPSIS
-    This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
+    Configures the account lockout duration to 15 minutes 
+    (or admin unlock) and verifies the policy setting.
 
 .NOTES
     Author          : Rayan Abu Omar 
