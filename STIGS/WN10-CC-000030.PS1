@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
-    
+    Disables ICMP redirect overrides by setting the 
+    EnableICMPRedirect registry value to 0.
 
 .NOTES
     Author          : Rayan Abu Omar 
