@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
-    
+    Ensures Data Execution Prevention (DEP) is set to at least OptOut;
+    updates configuration if needed and prompts for reboot.
 
 .NOTES
     Author          : Rayan Abu Omar 
