@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
-    
+    Enables failure auditing for the Detailed File Share audit policy 
+    subcategory if not already enabled.
 
 .NOTES
     Author          : Rayan Abu Omar 
