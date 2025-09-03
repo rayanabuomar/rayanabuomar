@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
-   
+   Disables lock screen camera access by setting the NoLockScreenCamera 
+   registry value to 1.
 
 .NOTES
     Author          : Rayan Abu Omar 
