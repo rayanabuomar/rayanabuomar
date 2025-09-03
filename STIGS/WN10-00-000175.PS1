@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
-    
+    Disables the Secondary Logon (seclogon) service by stopping it (if running) 
+    and setting its startup type to Disabled.
 
 .NOTES
     Author          : Rayan Abu Omar 
