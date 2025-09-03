@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
-    
+    Enforces a minimum password length of 14 characters by 
+    updating and applying local security policy.
 
 .NOTES
     Author          : Rayan Abu Omar 
