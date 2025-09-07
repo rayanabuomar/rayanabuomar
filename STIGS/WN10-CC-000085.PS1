@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
-    
+    Configures ELAM Boot-Start Driver Policy to allow only good, unknown, and critical 
+    drivers by setting DriverLoadPolicy to 3.
 
 .NOTES
     Author          : Rayan Abu Omar 
