@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
-    
+    Disables printing over HTTP by setting the DisableHTTPPrinting 
+    registry value to 1.
 
 .NOTES
     Author          : Rayan Abu Omar 
