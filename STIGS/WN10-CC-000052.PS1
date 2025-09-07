@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
-    
+    Enforces approved ECC curve order (NistP384, NistP256) for SSL
+    by updating the EccCurves registry setting.
 
 .NOTES
     Author          : Rayan Abu Omar 
