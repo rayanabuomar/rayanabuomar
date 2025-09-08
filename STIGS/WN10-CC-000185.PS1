@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
+    Disables AutoRun commands by setting the NoAutorun registry value to 1.
 
 .NOTES
     Author          : Rayan Abu Omar 
