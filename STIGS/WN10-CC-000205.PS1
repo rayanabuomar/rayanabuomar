@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
-    
+    Configures Windows telemetry level to the lowest allowed 
+    (0 = Security for Enterprise/Education, 1 = Basic for others).
 
 .NOTES
     Author          : Rayan Abu Omar 
