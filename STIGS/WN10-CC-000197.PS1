@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
-    
+    Disables Windows consumer features by setting the DisableWindowsConsumerFeatures 
+    registry value to 1.
 
 .NOTES
     Author          : Rayan Abu Omar 
