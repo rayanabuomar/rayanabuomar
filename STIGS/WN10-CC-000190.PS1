@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
-    
+    Disables Autoplay on all drives by setting the 
+    NoDriveTypeAutoRun registry value to 255.
 
 .NOTES
     Author          : Rayan Abu Omar 
