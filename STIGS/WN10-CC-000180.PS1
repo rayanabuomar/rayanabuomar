@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
-    
+    Disables Autoplay for non-volume devices by setting the 
+    NoAutoplayfornonVolume registry value to 1.
 
 .NOTES
     Author          : Rayan Abu Omar 
